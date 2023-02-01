@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'SuisseIntl';
+	src: url('$lib/assets/fonts/SuisseIntl/SuisseIntl-Regular-WebXL.woff2') format('woff2'),
+		url('$lib/assets/fonts/SuisseIntl/SuisseIntl-Regular-WebXL.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'SuisseIntl';
+	font-weight: 500;
+	src: url('$lib/assets/fonts/SuisseIntl/SuisseIntl-Book-WebXL.woff2') format('woff2'),
+		url('$lib/assets/fonts/SuisseIntl/SuisseIntl-Book-WebXL.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'SuisseIntl';
+	font-weight: 600;
+	src: url('$lib/assets/fonts/SuisseIntl/SuisseIntl-SemiBold-WebXL.woff2') format('woff2'),
+		url('$lib/assets/fonts/SuisseIntl/SuisseIntl-SemiBold-WebXL.woff') format('woff');
+}
